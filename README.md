@@ -1,4 +1,5 @@
 📄 LangChain PDF Q&A Chatbot
+
 A Streamlit-based AI chatbot that allows users to upload a PDF and ask questions about its content. Built using LangChain, Groq (LLaMA3), HuggingFace embeddings, and FAISS for retrieval.
 
 🚀 Features
